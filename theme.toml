@@ -1,0 +1,16 @@
+name = "Hugo-Portfolio"
+description = "A simple one page portfolio in Bootstrap with light theme"
+
+license = "GNU GPLv3"
+licenselink = "https://github.com/maheenwaris/hugo-portfolio/blob/main/LICENCE"
+
+homepage = "https://github.com/maheenwaris/hugo-portfolio"
+demosite = "https://cshugo.mansoorbarri.com/"
+
+tags = ["minimal", "portfolio", "personal", "bootstrap"]
+
+authors = [
+  {name = "Maheen Waris", homepage = "https://maheenwaris.com"},
+]
+
+min_version = "0.111.3"
