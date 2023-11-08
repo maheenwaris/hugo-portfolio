@@ -1,0 +1,29 @@
+baseURL = ""
+languageCode = 'en-us'
+theme = "portfolio"
+title = "Forest"
+
+[Params]
+    favicon = "/images/logo.png"
+    subheading = "Software Engineer & Web Developer"
+    description = "I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel ForrestKnight to more than 400k subscribers."
+    upform = "https://formspree.io/f/xlekkgdp"
+    Projects = [
+    {url = "https://maheenwaris.com", image = "js-convert.png", title = "JS Converters", tag = ["JavaScript", "HTML", "CSS"]},
+    {url = "https://maheenwaris.com", image = "chatbot.png", title = "AI Chatbot", tag = ["JavaScript", "HTML", "CSS"]},
+    {url = "https://maheenwaris.com", image = "jewel.png", title = "All Products", tag = ["Python", "HTML", "CSS"]},
+    ]
+    Timeline = [
+        {title = "YouTube Content Creators", till = "Today", since = "6 Years", description = "My humble attempt at building my version of the digital world one step at a time by documenting my coding journey and creating software engineering and computer science content to help those coming behind me."},
+
+        {title = "Solo Indie Developer", till = "2019", since = "4 Years", description = "I'm a solo indie developer building software for myself and clients to showcase on YouTube. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code."},
+
+        {title = "First Line of Code", till = "2013", since = "6 Years", description = "I wrote my first line of real code that started this journey into digital craftsmanship that I never could've imagined, especially as someone who never saw themselves as anything other than a blue collar worker."}
+    ]
+    socialIcons = [   
+        {name = "twitter", url = "https://twitter.com/"},    
+        {name = "facebook", url = "https://facebook.com/"},    
+        {name = "github", url = "https://github.com/"},    
+        {name = "instagram", url = "https://instagram.com/"},    
+        {name = "tiktok", url = "https://tiktok.com/"},    
+    ] 

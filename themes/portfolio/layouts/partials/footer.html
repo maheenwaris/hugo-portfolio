@@ -1,0 +1,24 @@
+<!-- footer -->
+<div>
+    <div class="container-fluid pb-4">
+        <div class="col-md-12">
+            <div class="footer">
+                {{ if isset .Site.Params "socialicons" }}
+                <div class="footer1">
+                    {{ range .Site.Params.SocialIcons }}
+                    {{ $iconName := .name }}
+                    <div class="footericon">
+                        <a href="{{ .url }}"><i class="fa-brands fa-{{ .name }}"></i></a>
+                    </div>  
+                    {{ end }}
+                </div>
+                {{ end }}
+                <div class="footer2">
+                    <p class="p-0 m-0">
+                        © 2023 {{ .Title }}. All rights reserved.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

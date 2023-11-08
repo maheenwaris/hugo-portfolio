@@ -1,0 +1,18 @@
+<!-- Section4 Contact -->
+<div class="container-fluid contactmain">
+    <div class="col-md-12">
+        <div class="contact">
+            <div class="contacthead">
+                <h3 class="contacthead1">Contact</h3>
+            </div>
+            <form action="{{ .Site.Params.upform }}" method="post">
+                <input type="text" class="form-control mb-2 contactinput" id="name" name="name" placeholder="Name">
+                <input type="email" class="form-control mb-2" id="email" name="_replyto" placeholder="Email">
+                <textarea class="form-control mb-2" id="message" name="message" placeholder="Message" rows="11" required></textarea>                
+                <div class="contactbtnmain">
+                    <button class="btn contactbtn" type="submit">Work with me</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
