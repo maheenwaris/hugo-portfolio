@@ -5,7 +5,7 @@ license = "GNU GPLv3"
 licenselink = "https://github.com/maheenwaris/hugo-portfolio/blob/main/LICENCE"
 
 homepage = "https://github.com/maheenwaris/hugo-portfolio"
-demosite = "https://cshugo.mansoorbarri.com/"
+demosite = "https://hugo-portfolio.maheenwaris.com/"
 
 tags = ["minimal", "portfolio", "personal", "bootstrap"]
 
