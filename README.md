@@ -31,7 +31,7 @@ git submodule add https://github.com/maheenwaris/hugo-portfolio.git themes/hugo-
 
 Google PageSpeed Insights
 
-![Screenshot of the result]([https://raw.githubusercontent.com/maheenwaris/hugo-portfolio/main/images/pagespeed.png](https://github.com/mansoorbarri/hugo-portfolio/blob/main/images/pagespeed.png?raw=true))
+![Screenshot of the result](https://raw.githubusercontent.com/maheenwaris/hugo-portfolio/main/images/pagespeed.png)
 
 ## Licence
 
