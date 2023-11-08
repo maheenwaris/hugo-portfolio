@@ -56,9 +56,10 @@ title = "Hugo Portfolio"
     ]
 ```
 
-1. **Formspree** is a web service that simplifies form creation for websites.
-2. **How to Use:** Sign up for an account, create your form, and embed it into your website for easy data collection.
-3. Start receiving form submissions and configure notifications from your Formspree dashboard.
+### Formspree
+- **Formspree** is a web service that simplifies form creation for websites.
+- **How to Use:** Sign up for an account, create your form, and embed it into your website for easy data collection.
+- Start receiving form submissions and configure notifications from your Formspree dashboard.
 
 You should remove links to socials which you don't want to mention.
 Now you can publish it to your host.
