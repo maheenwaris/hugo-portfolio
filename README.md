@@ -1,4 +1,4 @@
-## Coming Soon
+## Hugo-Portfolio
 
 A simple one page portfolio in Bootstrap with light theme
 
