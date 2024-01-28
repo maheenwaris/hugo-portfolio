@@ -2,8 +2,7 @@ name = "Hugo-Portfolio"
 description = "A simple one page portfolio in Bootstrap with light theme"
 
 license = "GNU GPLv3"
-licenselink = "https://github.com/maheenwaris/hugo-portfolio/blob/main/LICENCE"
-
+licenselink = "https://github.com/maheenwaris/hugo-portfolio/blob/main/LICENSE"
 homepage = "https://github.com/maheenwaris/hugo-portfolio"
 demosite = "https://hugo-portfolio.maheenwaris.com/"
 
